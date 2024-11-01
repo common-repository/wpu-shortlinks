@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPU Shortlinks\n"
+"POT-Creation-Date: 2016-12-14 17:03+0330\n"
+"PO-Revision-Date: 2016-12-14 17:03+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wpu-shortlinks.php:86
+msgid "Facebook"
+msgstr ""
+
+#: ../wpu-shortlinks.php:91
+msgid "Twitter"
+msgstr ""
+
+#: ../wpu-shortlinks.php:96
+msgid "Linkedin"
+msgstr ""
+
+#: ../wpu-shortlinks.php:101
+msgid "Google"
+msgstr ""
+
+#: ../wpu-shortlinks.php:106
+msgid "Tumblr"
+msgstr ""
+
+#: ../wpu-shortlinks.php:111
+msgid "Pinterest"
+msgstr ""
+
+#: ../wpu-shortlinks.php:116
+msgid "Reddit"
+msgstr ""
+
+#: ../wpu-shortlinks.php:121
+msgid "Telegram"
+msgstr ""
+
+#: ../wpu-shortlinks.php:126
+msgid "Skype"
+msgstr ""
+
+#: ../wpu-shortlinks.php:131
+msgid "WhatsApp"
+msgstr ""
+
+#: ../wpu-shortlinks.php:136
+msgid "Pocket"
+msgstr ""
+
+#: ../wpu-shortlinks.php:141
+msgid "Email"
+msgstr ""
+
+#: ../wpu-shortlinks.php:189
+msgid "Generate Shortlinks"
+msgstr ""
+
+#: ../wpu-shortlinks.php:236
+msgid "Generate Shortlinks."
+msgstr ""
+
+#: ../wpu-shortlinks.php:236
+msgid "Posts Generate Shortlinks."
+msgstr ""
+
+#: ../wpu-shortlinks.php:289 ../wpu-shortlinks.php:317
+#: ../wpu-shortlinks.php:557
+msgid "WPU Shortlinks"
+msgstr ""
+
+#: ../wpu-shortlinks.php:321
+msgid "Settings saved."
+msgstr ""
+
+#: ../wpu-shortlinks.php:328
+msgid "WPU Shortener API Key"
+msgstr ""
+
+#: ../wpu-shortlinks.php:334
+msgid "Get free API key"
+msgstr ""
+
+#: ../wpu-shortlinks.php:338
+msgid "Active shortlink on"
+msgstr ""
+
+#: ../wpu-shortlinks.php:350
+msgid "Access With Admin Bar"
+msgstr ""
+
+#: ../wpu-shortlinks.php:352 ../wpu-shortlinks.php:392
+msgid "Active"
+msgstr ""
+
+#: ../wpu-shortlinks.php:357
+msgid "Show Shortlink on"
+msgstr ""
+
+#: ../wpu-shortlinks.php:360 ../wpu-shortlinks.php:400
+msgid "Front Page, Archive Pages, and Search Results"
+msgstr ""
+
+#: ../wpu-shortlinks.php:369
+msgid "Type: "
+msgstr ""
+
+#: ../wpu-shortlinks.php:373
+msgid "Text"
+msgstr ""
+
+#: ../wpu-shortlinks.php:378
+msgid "Textbox"
+msgstr ""
+
+#: ../wpu-shortlinks.php:384
+msgid "Social Sharing"
+msgstr ""
+
+#: ../wpu-shortlinks.php:388
+msgid "Status"
+msgstr ""
+
+#: ../wpu-shortlinks.php:397
+msgid "Show buttons on"
+msgstr ""
+
+#: ../wpu-shortlinks.php:410
+msgid "Buttons"
+msgstr ""
+
+#: ../wpu-shortlinks.php:421
+msgid "Button style"
+msgstr ""
+
+#: ../wpu-shortlinks.php:425
+msgid "Icon + text"
+msgstr ""
+
+#: ../wpu-shortlinks.php:426
+msgid "Icon only"
+msgstr ""
+
+#: ../wpu-shortlinks.php:427
+msgid "Text only"
+msgstr ""
+
+#: ../wpu-shortlinks.php:433
+msgid "Order"
+msgstr ""
+
+#: ../wpu-shortlinks.php:437
+msgid "After Shortlink"
+msgstr ""
+
+#: ../wpu-shortlinks.php:438
+msgid "Before Shortlink"
+msgstr ""
+
+#: ../wpu-shortlinks.php:445
+msgid "Sharing label"
+msgstr ""
+
+#: ../wpu-shortlinks.php:449
+msgid "Share:"
+msgstr ""
+
+#: ../wpu-shortlinks.php:451
+msgid "the text to show before the sharing links."
+msgstr ""
+
+#: ../wpu-shortlinks.php:456
+msgid "Twitter Site Tag"
+msgstr ""
+
+#: ../wpu-shortlinks.php:461
+msgid "The Twitter username of the owner of this site's domain."
+msgstr ""
+
+#: ../wpu-shortlinks.php:465
+msgid "Save"
+msgstr ""
+
+#: ../wpu-shortlinks.php:502
+msgid "<a href=\"http://wpu.ir\" target=\"_blank\">WPU.IR</a> url shortener"
+msgstr ""
+
+#: ../wpu-shortlinks.php:506
+msgid "Long URL:"
+msgstr ""
+
+#: ../wpu-shortlinks.php:512
+msgid "Shorten URL"
+msgstr ""
+
+#: ../wpu-shortlinks.php:516 ../wpu-shortlinks.php:908
+#: ../wpu-shortlinks.php:920
+msgid "Invalid URL!"
+msgstr ""
+
+#: ../wpu-shortlinks.php:517 ../wpu-shortlinks.php:910
+msgid "Rate limit exceeded!"
+msgstr ""
+
+#: ../wpu-shortlinks.php:518 ../wpu-shortlinks.php:912
+msgid "Invalid API key!"
+msgstr ""
+
+#: ../wpu-shortlinks.php:519 ../wpu-shortlinks.php:894
+#: ../wpu-shortlinks.php:914
+msgid "Error in connect to webservice!"
+msgstr ""
+
+#: ../wpu-shortlinks.php:522 ../wpu-shortlinks.php:660
+#: ../wpu-shortlinks.php:662 ../wpu-shortlinks.php:792
+msgid "Shortlink: "
+msgstr ""
+
+#: ../wpu-shortlinks.php:585 ../wpu-shortlinks.php:617
+msgid "Shortlink"
+msgstr ""
+
+#: ../wpu-shortlinks.php:615
+msgid "Post ID Shortlink? (Optional)"
+msgstr ""
+
+#: ../wpu-shortlinks.php:616
+msgid "Shortlink Title?"
+msgstr ""
+
+#: ../wpu-shortlinks.php:618
+msgid "Add Shortlink wpu.ir"
+msgstr ""
+
+#: ../wpu-shortlinks.php:752
+msgid "Post Shortlink"
+msgstr ""

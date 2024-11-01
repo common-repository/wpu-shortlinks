@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPU Shortlinks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-14 17:02+0330\n"
+"PO-Revision-Date: 2016-12-14 17:03+0330\n"
+"Last-Translator: Parsa <i@parsa.ws>\n"
+"Language-Team: WP-Parsi.com <i@parsa.ws>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wpu-shortlinks.php:86
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: ../wpu-shortlinks.php:91
+msgid "Twitter"
+msgstr "توییتر"
+
+#: ../wpu-shortlinks.php:96
+msgid "Linkedin"
+msgstr "لینکداین"
+
+#: ../wpu-shortlinks.php:101
+msgid "Google"
+msgstr "گوگل"
+
+#: ../wpu-shortlinks.php:106
+msgid "Tumblr"
+msgstr "تامبلر"
+
+#: ../wpu-shortlinks.php:111
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: ../wpu-shortlinks.php:116
+msgid "Reddit"
+msgstr "رددیت"
+
+#: ../wpu-shortlinks.php:121
+msgid "Telegram"
+msgstr "تلگرام"
+
+#: ../wpu-shortlinks.php:126
+msgid "Skype"
+msgstr "اسکایپ"
+
+#: ../wpu-shortlinks.php:131
+msgid "WhatsApp"
+msgstr "واتزاپ"
+
+#: ../wpu-shortlinks.php:136
+msgid "Pocket"
+msgstr "پاکت"
+
+#: ../wpu-shortlinks.php:141
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../wpu-shortlinks.php:189
+msgid "Generate Shortlinks"
+msgstr "ایجاد لینک کوتاه"
+
+#: ../wpu-shortlinks.php:236
+msgid "Generate Shortlinks."
+msgstr "لینک کوتاه ایجاد شد"
+
+#: ../wpu-shortlinks.php:236
+msgid "Posts Generate Shortlinks."
+msgstr "لینک کوتاه برای پستها ایجاد شد"
+
+#: ../wpu-shortlinks.php:289 ../wpu-shortlinks.php:317
+#: ../wpu-shortlinks.php:557
+msgid "WPU Shortlinks"
+msgstr "کوتاه کننده لینک WPU"
+
+#: ../wpu-shortlinks.php:321
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شدند."
+
+#: ../wpu-shortlinks.php:328
+msgid "WPU Shortener API Key"
+msgstr "کلید API کوتاه‌کننده لینک WPU"
+
+#: ../wpu-shortlinks.php:334
+msgid "Get free API key"
+msgstr "دریافت رایگان کلید API"
+
+#: ../wpu-shortlinks.php:338
+msgid "Active shortlink on"
+msgstr "لینک کوتاه فعال در"
+
+#: ../wpu-shortlinks.php:350
+msgid "Access With Admin Bar"
+msgstr "دسترسی با نوار مدیریت"
+
+#: ../wpu-shortlinks.php:352 ../wpu-shortlinks.php:392
+msgid "Active"
+msgstr "فعال"
+
+#: ../wpu-shortlinks.php:357
+msgid "Show Shortlink on"
+msgstr "نمایش لینک‌کوتاه"
+
+#: ../wpu-shortlinks.php:360 ../wpu-shortlinks.php:400
+msgid "Front Page, Archive Pages, and Search Results"
+msgstr "صفحهٔ اول، صفحات بایگانی و نتایج جست‌وجو"
+
+#: ../wpu-shortlinks.php:369
+msgid "Type: "
+msgstr "نوع:"
+
+#: ../wpu-shortlinks.php:373
+msgid "Text"
+msgstr "متنی"
+
+#: ../wpu-shortlinks.php:378
+msgid "Textbox"
+msgstr "فیلد متنی"
+
+#: ../wpu-shortlinks.php:384
+msgid "Social Sharing"
+msgstr "اشتراک‌گذاری شبکه‌های اجتماعی"
+
+#: ../wpu-shortlinks.php:388
+msgid "Status"
+msgstr "وضعیت"
+
+#: ../wpu-shortlinks.php:397
+msgid "Show buttons on"
+msgstr "نمایش دکمه‌ها"
+
+#: ../wpu-shortlinks.php:410
+msgid "Buttons"
+msgstr "دکمه‌ها"
+
+#: ../wpu-shortlinks.php:421
+msgid "Button style"
+msgstr "سبک دکمه‌ها"
+
+#: ../wpu-shortlinks.php:425
+msgid "Icon + text"
+msgstr "شمایل + متن"
+
+#: ../wpu-shortlinks.php:426
+msgid "Icon only"
+msgstr "تنها شمایل"
+
+#: ../wpu-shortlinks.php:427
+msgid "Text only"
+msgstr "تنها متن"
+
+#: ../wpu-shortlinks.php:433
+msgid "Order"
+msgstr "ترتیب"
+
+#: ../wpu-shortlinks.php:437
+msgid "After Shortlink"
+msgstr "بعد از لینک کوتاه"
+
+#: ../wpu-shortlinks.php:438
+msgid "Before Shortlink"
+msgstr "قبل از لینک کوتاه"
+
+#: ../wpu-shortlinks.php:445
+msgid "Sharing label"
+msgstr "عنوان دکمه‌های اشتراک‌گذاری"
+
+#: ../wpu-shortlinks.php:449
+msgid "Share:"
+msgstr "اشتراک‌گذاری:"
+
+#: ../wpu-shortlinks.php:451
+msgid "the text to show before the sharing links."
+msgstr "این نوشته قبل از پیوندهای اشتراک‌گذاری نمایش داده می‌شود."
+
+#: ../wpu-shortlinks.php:456
+msgid "Twitter Site Tag"
+msgstr "برچسب وب‌گاه توییتر"
+
+#: ../wpu-shortlinks.php:461
+msgid "The Twitter username of the owner of this site's domain."
+msgstr "نام کاربری توییتر دارندهٔ دامنهٔ این وب‌گاه"
+
+#: ../wpu-shortlinks.php:465
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../wpu-shortlinks.php:502
+msgid "<a href=\"http://wpu.ir\" target=\"_blank\">WPU.IR</a> url shortener"
+msgstr "کوتاه کننده لینک <a href=\"http://wpu.ir\" target=\"_blank\">وردپرس پارسی</a>"
+
+#: ../wpu-shortlinks.php:506
+msgid "Long URL:"
+msgstr "آدرس بلند:"
+
+#: ../wpu-shortlinks.php:512
+msgid "Shorten URL"
+msgstr "ایجاد لینک کوتاه"
+
+#: ../wpu-shortlinks.php:516 ../wpu-shortlinks.php:908
+#: ../wpu-shortlinks.php:920
+msgid "Invalid URL!"
+msgstr "آدرس معتبر نیست!"
+
+#: ../wpu-shortlinks.php:517 ../wpu-shortlinks.php:910
+msgid "Rate limit exceeded!"
+msgstr "محدودیت در دریافت لینک کوتاه!"
+
+#: ../wpu-shortlinks.php:518 ../wpu-shortlinks.php:912
+msgid "Invalid API key!"
+msgstr "کلید API معتبر نیست!"
+
+#: ../wpu-shortlinks.php:519 ../wpu-shortlinks.php:894
+#: ../wpu-shortlinks.php:914
+msgid "Error in connect to webservice!"
+msgstr "خطا در اتصال به سرویس دهنده"
+
+#: ../wpu-shortlinks.php:522 ../wpu-shortlinks.php:660
+#: ../wpu-shortlinks.php:662 ../wpu-shortlinks.php:792
+msgid "Shortlink: "
+msgstr "لینک کوتاه: "
+
+#: ../wpu-shortlinks.php:585 ../wpu-shortlinks.php:617
+msgid "Shortlink"
+msgstr "لینک کوتاه"
+
+#: ../wpu-shortlinks.php:615
+msgid "Post ID Shortlink? (Optional)"
+msgstr "شناسه پست لینک کوتاه؟ (اختیاری)"
+
+#: ../wpu-shortlinks.php:616
+msgid "Shortlink Title?"
+msgstr "عنوان لینک کوتاه؟"
+
+#: ../wpu-shortlinks.php:618
+msgid "Add Shortlink wpu.ir"
+msgstr "افزودن لینک کوتاه wpu.ir"
+
+#: ../wpu-shortlinks.php:752
+msgid "Post Shortlink"
+msgstr "لینک کوتاه نوشته"
+
+#~ msgid "Shortlinker "
+#~ msgstr "کوتاه کننده لینک"
+
+#~ msgid "Google+"
+#~ msgstr "گوگل+"
+
+#~ msgid "Display Shortlink on"
+#~ msgstr "نمایش لینک کوتاه در"
+
+#~ msgid "Display Shortlink in Post Content"
+#~ msgstr "نمایش لینک کوتاه در محتوای پست"
+
+#~ msgid "WPU Shortlinks Firefox Addon"
+#~ msgstr "افزونه فایرفاکس کوتاه‌کننده‌لینک WPU"
+
+#~ msgid "Social Sharing module based by \"Social Sharing by Danny\" plugin"
+#~ msgstr "ماژول اشتکراک‌گذاری لینک بر پایه افزونه \"Social Sharing by Danny\" است."
+
+#~ msgid "<a href=\"http://wpu.ir\" target=\"_blank\">WPU.IR</a> url shortner"
+#~ msgstr "کوتاه کننده لینک <a href=\"http://wpu.ir\" target=\"_blank\">وردپرس پارسی</a>"
+
+#~ msgid "Paste your long URL Here:"
+#~ msgstr "لینک بلند را در جعبه متن زیر قرار دهید:"
+
+#~ msgid "Load Icon CSS?"
+#~ msgstr "فراخوانی استایل آیکنها؟"
+
+#~ msgid "Yes"
+#~ msgstr "بله"
+
+#~ msgid "No"
+#~ msgstr "خیر"
+
+#~ msgid "Adds simple but pretty icons to the sharing links."
+#~ msgstr "افزودن آیکنهای زیبا به پیوندهای اشتراک‌گذاری."
+
+#~ msgid "Load Pop-Up JS?"
+#~ msgstr "فراخوانی جاوااسکریپت پاپ‌آپ؟"
+
+#~ msgid "Open Popup Window Instead of New Tab or Window"
+#~ msgstr "ایجاد پنجره پاپ‌آپ به جای سربرگ یا پنجره جدید"
+
+#~ msgid "Share this post:"
+#~ msgstr "اشتراک‌گذاری نوشته:"
+
+#~ msgid "Text before links"
+#~ msgstr "نوشته قبل از پیوندها"
+
+#~ msgid "Icon Size"
+#~ msgstr "اندازه آیکن"
+
+#~ msgid "Small"
+#~ msgstr "کوچک"
+
+#~ msgid "pixels"
+#~ msgstr "پیکسل"
+
+#~ msgid "Normal"
+#~ msgstr "متوسط"
+
+#~ msgid "Twitter Username"
+#~ msgstr "نام کاربری توییتر"
+
+#~ msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+#~ msgstr "مقدار دهید اگر می‌خواهید \"via @yourTwitterUsername\" به توییت افزوده شود."
+
+#~ msgid "Generate Content URL Shortlinks"
+#~ msgstr "ایجاد لینک کوتاه لینکهای محتوای پست"
+
+#~ msgid "Please Wait ..."
+#~ msgstr "لطفا صبر کنید ..."
+
+#~ msgid "Link not validate!"
+#~ msgstr "لینک اعتبار ندارد!"
+
+#~ msgid "so people won't have to leave your website to share."
+#~ msgstr "جلوگیری از خارج شدن کاربر سایت شما برای اشتراک‌گذاری.برای جلوگیری از خارج شدن کاربر از سایت شما."
+
+#~ msgid "WPU Shortlink"
+#~ msgstr "کوتاه کننده لینک WPU"

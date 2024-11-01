@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'wpu-icomoon';
+    src: url('../fonts/icomoon.eot?3meq5q');
+    src: url('../fonts/icomoon.eot?3meq5q#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?3meq5q') format('truetype'),
+    url('../fonts/icomoon.woff?3meq5q') format('woff'),
+    url('../fonts/icomoon.svg?3meq5q#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.wpu_sharing {
+    margin: 20px 0;
+}
+
+.wpu_sharing h3.title {
+    margin: 0 0 1em;
+    display: inline-block;
+    line-height: 1.2;
+    font-size: 9pt;
+    font-weight: 700;
+}
+
+.wpu_sharing a {
+    position: relative;
+    display: inline-block;
+    padding: 1px 7px 0;
+    border: 1px solid #CCCCCC;
+    background-color: #f8f8f8;
+    color: #777 !important;
+    text-decoration: none !important;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 0 #0000001a !important;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    font-size: 12px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    text-shadow: none;
+    line-height: 23px;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out 0s !important;
+}
+
+.wpu_sharing a:hover, .wpu_sharing a:active, .wpu_sharing a:focus {
+    color: #555;
+    background: #fafafa;
+    border: 1px solid #999;
+}
+
+.wpu_sharing a [class^="icon-"],
+.wpu_sharing a [class*="icon-"] {
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+body.rtl .wpu_sharing a [class^="icon-"],
+body.rtl .wpu_sharing a [class*="icon-"] {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.wpu_sharing a.style-icon,
+body.rtl .wpu_sharing a.style-icon {
+    padding: 7px 9px 0;
+}
+
+.wpu_sharing a.style-icon span,
+body.rtl .wpu_sharing a.style-icon span {
+    margin: 0;
+    font-size: 20px;
+}
+
+.wpu_sharing [class^="icon-"], .wpu_sharing [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'wpu-icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.wpu_sharing .icon-tumblr-square:before {
+    content: "\e900";
+}
+
+.wpu_sharing .icon-reddit-square:before {
+    content: "\e901";
+}
+
+.wpu_sharing .icon-whatsapp:before {
+    content: "\e902";
+}
+
+.wpu_sharing .icon-skype:before {
+    content: "\e903";
+}
+
+.wpu_sharing .icon-envelope:before {
+    content: "\e904";
+}
+
+.wpu_sharing .icon-telegram:before {
+    content: "\e905";
+}
+
+.wpu_sharing .icon-linkedin-square:before {
+    content: "\e906";
+}
+
+.wpu_sharing .icon-google-plus-square:before {
+    content: "\e907";
+}
+
+.wpu_sharing .icon-facebook-square:before {
+    content: "\e908";
+}
+
+.wpu_sharing .icon-pinterest-square:before {
+    content: "\e909";
+}
+
+.wpu_sharing .icon-twitter-square:before {
+    content: "\e90a";
+}
+
+.wpu_sharing .icon-get-pocket:before {
+    content: "\e90b";
+}
+
+#wpu_shortlink_content .shortlink_textbox{
+    width: 180px;
+    text-align: center;
+    display: inline-block;
+    padding: 5px 8px;
+    border: 1px solid #BBBBBB;
+}
